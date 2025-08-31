@@ -7,6 +7,7 @@ Access to safe drinking water is still a challenge worldwide. Contaminated water
 This work supports SDG 6: Clean Water & Sanitation, promoting safe and sustainable water management through technology.
 
 **Preprocessing Steps**
+
 **Collect & Import Data** – Used Kaggle dataset with water quality parameters.
 **Clean Data** – Handle missing values and inconsistencies.
 **Scale Features** – Normalize values for fair comparison.
