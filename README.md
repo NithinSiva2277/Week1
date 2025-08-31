@@ -9,7 +9,7 @@ This work supports SDG 6: Clean Water & Sanitation, promoting safe and sustainab
 **Preprocessing Steps**
 
 **Collect & Import Data** – Used Kaggle dataset with water quality parameters.
-**Clean Data** – Handle missing values and inconsistencies.
+**Clean Data** – Handle missing values and inconsistencies. 
 **Scale Features** – Normalize values for fair comparison.
 **Balance Data (SMOTE)** – Avoid bias by balancing potable/non-potable samples.
 **Split Features & Labels** – Inputs: water parameters; Output: potability.
