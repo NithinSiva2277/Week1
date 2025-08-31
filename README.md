@@ -3,6 +3,7 @@ Preprocessing pipeline for water pollution monitoring project (AICTE Week 1). In
 
 
 **Problem Statement**
+
 Access to safe drinking water is still a challenge worldwide. Contaminated water causes serious health issues. This project uses data Machine Learning to analyze water quality and predict if water is potable or not.
 This work supports SDG 6: Clean Water & Sanitation, promoting safe and sustainable water management through technology.
 
