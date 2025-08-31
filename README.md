@@ -8,17 +8,17 @@ This work supports SDG 6: Clean Water & Sanitation, promoting safe and sustainab
 
 **Preprocessing Steps**
 
-**Collect & Import Data** – Used Kaggle dataset with water quality parameters.
+**1.Collect & Import Data** – Used Kaggle dataset with water quality parameters.
 
-**Clean Data** – Handle missing values and inconsistencies. 
+**2.Clean Data** – Handle missing values and inconsistencies. 
 
-**Scale Features** – Normalize values for fair comparison.
+**3.Scale Features** – Normalize values for fair comparison.
 
-**Balance Data (SMOTE)** – Avoid bias by balancing potable/non-potable samples.
+**4.Balance Data (SMOTE)** – Avoid bias by balancing potable/non-potable samples.
 
-**Split Features & Labels** – Inputs: water parameters; Output: potability.
+**5.Split Features & Labels** – Inputs: water parameters; Output: potability.
 
-**Train-Test Split** – Prepare for model building and evaluation.
+**6.Train-Test Split** – Prepare for model building and evaluation.
 
 **Expected Outcome**
 A ready-to-use dataset for ML models to predict water safety and highlight key factors, contributing to sustainable water solutions.
