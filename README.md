@@ -29,3 +29,5 @@ In Week 2, our focus was on building and evaluating machine learning models for 
 **5.K-Nearest Neighbors (KNN)**<br>
 
 We compared their performance, and the results are shown below:
+![Model Comparison](Figure_1.png)
+
