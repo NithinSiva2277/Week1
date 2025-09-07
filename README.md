@@ -19,3 +19,13 @@ A ready-to-use dataset for ML models to predict water safety and highlight key f
 
 
 # Week2
+In Week 2, our focus was on building and evaluating machine learning models for water potability prediction.
+
+**We started by trying out different models:**<br>
+**1.Logistic Regression**<br>
+**2.Decision Tree**<br>
+**3.Random Forest**<br>
+**4.Support Vector Machine (SVM)**<br>
+**5.K-Nearest Neighbors (KNN)**<br>
+
+We compared their performance, and the results are shown below:
