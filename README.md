@@ -30,6 +30,7 @@ In Week 2, our focus was on building and evaluating machine learning models for 
 
 We compared their performance, and the results are shown below:
 ![Model Comparison](Figure_1.png)
+
 From this comparison, we observed that Random Forest achieved the highest accuracy among all the models.
 
 To further evaluate our model, we calculated multiple performance metrics:
