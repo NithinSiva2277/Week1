@@ -16,3 +16,6 @@ This work supports SDG 6: Clean Water & Sanitation, promoting safe and sustainab
 
 **Expected Outcome**<br>
 A ready-to-use dataset for ML models to predict water safety and highlight key factors, contributing to sustainable water solutions.
+
+
+# Week2
