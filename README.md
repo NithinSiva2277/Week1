@@ -31,15 +31,15 @@ In Week 2, our focus was on building and evaluating machine learning models for 
 We compared their performance, and the results are shown below:
 ![Model Comparison](Figure_1.png)
 
-From this comparison, we observed that Random Forest achieved the highest accuracy among all the models.
+From this comparison, we observed that **Random Forest** achieved the highest accuracy among all the models.
 
 To further evaluate our model, we calculated multiple performance metrics:
 
-Accuracy: 72.62%<br>
-Precision: 73.39%<br>
-Recall: 71.00%<br>
-F1-Score: 72.17%<br>
-ROC-AUC Score: 81.04%<br>
+**Accuracy**: 72.62%<br>
+**Precision**: 73.39%<br>
+**Recall**: 71.00%<br>
+**F1-Score**: 72.17%<br>
+**ROC-AUC Score**: 81.04%<br>
 
 These metrics show that our Random Forest model is performing well, with balanced precision and recall, and a strong ROC-AUC score. This indicates the model is effective in distinguishing between potable and non-potable water.
 
